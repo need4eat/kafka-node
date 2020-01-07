@@ -23,7 +23,7 @@
     "binary": "~0.3.0",
     "bl": "^2.2.0",
     "buffer-crc32": "~0.2.5",
-    "buffermaker": "~1.2.0",
+    "buffermaker": "need4eat/buffermaker",
     "debug": "^2.1.3",
     "denque": "^1.3.0",
     "lodash": "^4.17.4",
